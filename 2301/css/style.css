@@ -1,0 +1,21 @@
+.my-cont{
+    padding-top: 5rem;
+    padding-bottom: 5rem; 
+    height: auto;
+    border-bottom: solid 1px #ddd;
+    background-color: #fff;
+    text-align: center;
+}
+.mdb-content{
+    margin-bottom: 5rem;
+}
+
+
+
+@media (min-width: 576px) {
+    .text-muted {
+        text-align: left; 
+        padding-left: 10rem;
+        padding-right:10rem;
+    }
+}
